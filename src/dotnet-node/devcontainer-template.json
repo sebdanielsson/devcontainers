@@ -1,6 +1,6 @@
 {
     "id": "dotnet-node",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "name": ".NET + Node.js",
     "description": "Develop web applications with .NET and Node.js.",
     "documentationURL": "https://github.com/sebdanielsson/devcontainers/tree/main/src/dotnet-node",
