@@ -11,16 +11,17 @@
             "type": "string",
             "description": "Linux distro:",
             "proposals": [
-                "debian-12",
+                "debian-13",
                 "ubuntu-24.04"
             ],
-            "default": "debian-12"
+            "default": "debian-13"
         },
         "dotnetVersion": {
             "type": "string",
             "description": "Additional .NET versions:",
             "proposals": [
                 "lts",
+                "10.0",
                 "9.0",
                 "8.0"
             ],
@@ -31,6 +32,7 @@
             "description": "Node.js version:",
             "proposals": [
                 "lts",
+                "24",
                 "22",
                 "20"
             ],
