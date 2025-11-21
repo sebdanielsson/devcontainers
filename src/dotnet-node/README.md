@@ -7,7 +7,7 @@ Develop web applications with .NET and Node.js.
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| imageVariant | Linux distro: | string | debian-12 |
+| imageVariant | Linux distro: | string | debian-13 |
 | dotnetVersion | Additional .NET versions: | string | lts |
 | nodeVersion | Node.js version: | string | lts |
 
